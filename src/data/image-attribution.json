@@ -1,0 +1,228 @@
+{
+  "beijing": {
+    "photoId": "956B64y1W04",
+    "photoUrl": "https://unsplash.com/photos/forbidden-city-on-a-dock-over-water-956B64y1W04",
+    "photographer": "Yetepireg ILes",
+    "photographerUrl": "https://unsplash.com/@pestahdurbs",
+    "unsplashQuery": "Beijing forbidden city"
+  },
+  "shanghai": {
+    "photoId": "Gq8SRNZRFa0",
+    "photoUrl": "https://unsplash.com/photos/high-rise-buildings-near-body-of-water-during-daytime-Gq8SRNZRFa0",
+    "photographer": "Sicheng Liu",
+    "photographerUrl": "https://unsplash.com/@lsc122746",
+    "unsplashQuery": "Shanghai bund skyline"
+  },
+  "xian": {
+    "photoId": "B2rxHSCIVWI",
+    "photoUrl": "https://unsplash.com/photos/terracotta-warrior-statue-B2rxHSCIVWI",
+    "photographer": "Lai Sanders",
+    "photographerUrl": "https://unsplash.com/@laisanders",
+    "unsplashQuery": "Xian terracotta army"
+  },
+  "chengdu": {
+    "photoId": "z1UgM_J_ld8",
+    "photoUrl": "https://unsplash.com/photos/a-panda-bear-sitting-on-top-of-a-tree-branch-z1UgM_J_ld8",
+    "photographer": "mo jiaming",
+    "photographerUrl": "https://unsplash.com/@ni000co",
+    "unsplashQuery": "Chengdu giant panda"
+  },
+  "guilin": {
+    "photoId": "l_WyuhA5oqE",
+    "photoUrl": "https://unsplash.com/photos/a-hand-holding-a-book-in-front-of-a-lake-and-mountains-l_WyuhA5oqE",
+    "photographer": "Sergio Li",
+    "photographerUrl": "https://unsplash.com/@guiyu",
+    "unsplashQuery": "Guilin li river karst"
+  },
+  "hangzhou": {
+    "photoId": "MsyIOw1Pb8E",
+    "photoUrl": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-MsyIOw1Pb8E",
+    "photographer": "Dominic Kurniawan Suryaputra",
+    "photographerUrl": "https://unsplash.com/@d_ks11",
+    "unsplashQuery": "Hangzhou west lake pagoda"
+  },
+  "lhasa": {
+    "photoId": "Lnrb3inbrVw",
+    "photoUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-near-mountain-during-daytime-Lnrb3inbrVw",
+    "photographer": "Xuyu Chi",
+    "photographerUrl": "https://unsplash.com/@xccc",
+    "unsplashQuery": "Lhasa potala palace tibet"
+  },
+  "lijiang": {
+    "photoId": "NAKfpuz50ag",
+    "photoUrl": "https://unsplash.com/photos/three-people-walking-down-a-street-carrying-baskets-NAKfpuz50ag",
+    "photographer": "Sheila C",
+    "photographerUrl": "https://unsplash.com/@qld_traveller",
+    "unsplashQuery": "Lijiang old town yunnan"
+  },
+  "dali": {
+    "photoId": "3NnPSrwocto",
+    "photoUrl": "https://unsplash.com/photos/an-aerial-view-of-a-large-monument-in-the-middle-of-a-city-3NnPSrwocto",
+    "photographer": "Michael Myers",
+    "photographerUrl": "https://unsplash.com/@myers2021",
+    "unsplashQuery": "Dali yunnan three pagodas"
+  },
+  "yangshuo": {
+    "photoId": "vG6-pbX7024",
+    "photoUrl": "https://unsplash.com/photos/karst-mountains-and-river-near-a-village-at-sunrise-vG6-pbX7024",
+    "photographer": "Willian Justen de Vasconcellos",
+    "photographerUrl": "https://unsplash.com/@willianjusten",
+    "unsplashQuery": "Yangshuo karst river"
+  },
+  "kunming": {
+    "photoId": "Nxzhw_ULlWU",
+    "photoUrl": "https://unsplash.com/photos/a-yellow-building-with-red-shutters-on-top-of-it-Nxzhw_ULlWU",
+    "photographer": "Howard Wu",
+    "photographerUrl": "https://unsplash.com/@ausardiatx",
+    "unsplashQuery": "Kunming yunnan"
+  },
+  "chongqing": {
+    "photoId": "USAsr7DVfJY",
+    "photoUrl": "https://unsplash.com/photos/city-skyline-with-buildings-and-a-bridge-over-water-USAsr7DVfJY",
+    "photographer": "ling ze",
+    "photographerUrl": "https://unsplash.com/@lingze_",
+    "unsplashQuery": "Chongqing skyline yangtze"
+  },
+  "zhangjiajie": {
+    "photoId": "krzDFfAU4Xs",
+    "photoUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-top-of-a-cliff-krzDFfAU4Xs",
+    "photographer": "Tao Yuan",
+    "photographerUrl": "https://unsplash.com/@peek_a_boo_who",
+    "unsplashQuery": "Zhangjiajie sandstone pillars"
+  },
+  "harbin": {
+    "photoId": "eyVSqgsQVWI",
+    "photoUrl": "https://unsplash.com/photos/a-crowd-of-people-walking-down-a-street-next-to-a-tall-building-eyVSqgsQVWI",
+    "photographer": "Eugenia Pan'kiv",
+    "photographerUrl": "https://unsplash.com/@eugenivy_now",
+    "unsplashQuery": "Harbin ice festival saint sophia"
+  },
+  "qingdao": {
+    "photoId": "zXsXkbfDBgs",
+    "photoUrl": "https://unsplash.com/photos/a-couple-of-people-walking-down-a-street-next-to-parked-cars-zXsXkbfDBgs",
+    "photographer": "Clay Wong",
+    "photographerUrl": "https://unsplash.com/@ounxikixia",
+    "unsplashQuery": "Qingdao china old town"
+  },
+  "xiamen": {
+    "photoId": "HrwO8EKmgu8",
+    "photoUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-body-of-water-HrwO8EKmgu8",
+    "photographer": "拍照铺 pjoup",
+    "photographerUrl": "https://unsplash.com/@ak687686",
+    "unsplashQuery": "Xiamen gulangyu island"
+  },
+  "jiuzhaigou": {
+    "photoId": "LHwmTyghi68",
+    "photoUrl": "https://unsplash.com/photos/clear-turquoise-lake-with-submerged-logs-and-forested-mountains-LHwmTyghi68",
+    "photographer": "Yunfan Li",
+    "photographerUrl": "https://unsplash.com/@sakana_yoyo",
+    "unsplashQuery": "Jiuzhaigou valley turquoise lake"
+  },
+  "suzhou": {
+    "photoId": "ZOA1I3NoGPo",
+    "photoUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-at-night-ZOA1I3NoGPo",
+    "photographer": "Z. Ruikoto",
+    "photographerUrl": "https://unsplash.com/@ruikoto",
+    "unsplashQuery": "Suzhou china",
+    "extras": [
+      {
+        "slot": 2,
+        "photoId": "XReDqK3fmQQ",
+        "photoUrl": "https://unsplash.com/photos/a-group-of-boats-traveling-down-a-river-next-to-buildings-XReDqK3fmQQ",
+        "photographer": "三山",
+        "photographerUrl": "https://unsplash.com/@johnsonzhouz"
+      },
+      {
+        "slot": 3,
+        "photoId": "iiIIpAqE2Ao",
+        "photoUrl": "https://unsplash.com/photos/a-group-of-houses-surrounded-by-trees-iiIIpAqE2Ao",
+        "photographer": "Yilei (Jerry) Bao",
+        "photographerUrl": "https://unsplash.com/@yileijerrybao"
+      }
+    ]
+  },
+  "xinjiang": {
+    "photoId": "B4mV8nB8pGA",
+    "photoUrl": "https://unsplash.com/photos/brown-sand-near-brown-mountain-during-daytime-B4mV8nB8pGA",
+    "photographer": "Christoph Theisinger",
+    "photographerUrl": "https://unsplash.com/@chippenpuepp",
+    "unsplashQuery": "Xinjiang desert mountains"
+  },
+  "gansu": {
+    "photoId": "epOqEKtfxD4",
+    "photoUrl": "https://unsplash.com/photos/a-herd-of-sheep-grazing-on-top-of-a-lush-green-field-epOqEKtfxD4",
+    "photographer": "飞凌鱼京",
+    "photographerUrl": "https://unsplash.com/@feilingyujing",
+    "unsplashQuery": "Dunhuang desert oasis"
+  },
+  "qinghai": {
+    "photoId": "2xGXvFbCLwk",
+    "photoUrl": "https://unsplash.com/photos/a-large-field-of-yellow-flowers-with-a-body-of-water-in-the-background-2xGXvFbCLwk",
+    "photographer": "Ste",
+    "photographerUrl": "https://unsplash.com/@barrelrider",
+    "unsplashQuery": "Qinghai lake canola"
+  },
+  "inner-mongolia": {
+    "photoId": "NuAWwfD_j24",
+    "photoUrl": "https://unsplash.com/photos/a-yurt-in-a-field-with-mountains-in-the-background-NuAWwfD_j24",
+    "photographer": "Charles MingZ",
+    "photographerUrl": "https://unsplash.com/@charlesmingz",
+    "unsplashQuery": "Mongolia grassland yurt"
+  },
+  "wuhan": {
+    "photoId": "_CwGwYY-sa8",
+    "photoUrl": "https://unsplash.com/photos/a-view-of-a-city-with-a-bridge-in-the-background-_CwGwYY-sa8",
+    "photographer": "Bo Zhang",
+    "photographerUrl": "https://unsplash.com/@bozh_ntu",
+    "unsplashQuery": "Wuhan yellow crane tower"
+  },
+  "jingdezhen": {
+    "photoId": "-dpaSc772dg",
+    "photoUrl": "https://unsplash.com/photos/potter-shaping-clay-on-a-wheel-in-a-workshop--dpaSc772dg",
+    "photographer": "jason hu",
+    "photographerUrl": "https://unsplash.com/@hujason",
+    "unsplashQuery": "Chinese porcelain pottery"
+  },
+  "guangzhou": {
+    "photoId": "BIeHF8xMVYg",
+    "photoUrl": "https://unsplash.com/photos/a-bridge-and-tower-lit-up-at-night-BIeHF8xMVYg",
+    "photographer": "Michael Held",
+    "photographerUrl": "https://unsplash.com/@michaelheld",
+    "unsplashQuery": "Guangzhou canton tower night"
+  },
+  "chaozhou": {
+    "photoId": "jSCkGO1AUwA",
+    "photoUrl": "https://unsplash.com/photos/stone-bridge-over-a-canal-with-reflections-jSCkGO1AUwA",
+    "photographer": "Wwwwww Lu",
+    "photographerUrl": "https://unsplash.com/@lwllwwlllwww",
+    "unsplashQuery": "Chaozhou bridge old town"
+  },
+  "changsha": {
+    "photoId": "90myVe7VoYA",
+    "photoUrl": "https://unsplash.com/photos/a-view-of-a-city-and-a-body-of-water-90myVe7VoYA",
+    "photographer": "Chubo Han",
+    "photographerUrl": "https://unsplash.com/@soulwinter",
+    "unsplashQuery": "长沙橘子洲"
+  },
+  "wuyuan": {
+    "photoId": "QlSUccJ1rXA",
+    "photoUrl": "https://unsplash.com/photos/yellow-flowers-bloom-against-a-bright-sky-QlSUccJ1rXA",
+    "photographer": "Major Wang",
+    "photographerUrl": "https://unsplash.com/@crealmajor",
+    "unsplashQuery": "yellow canola field China"
+  },
+  "ningxia": {
+    "photoId": "M5SNy_tXbZc",
+    "photoUrl": "https://unsplash.com/photos/a-view-of-a-mountain-range-from-an-airplane-M5SNy_tXbZc",
+    "photographer": "ダモ リ",
+    "photographerUrl": "https://unsplash.com/@darmau",
+    "unsplashQuery": "desert mountain China"
+  },
+  "shantou": {
+    "photoId": "n8PY-jzqK-M",
+    "photoUrl": "https://unsplash.com/photos/a-store-with-lots-of-colorful-umbrellas-hanging-from-the-ceiling-n8PY-jzqK-M",
+    "photographer": "Rui Hao Lim",
+    "photographerUrl": "https://unsplash.com/@ruii_hao",
+    "unsplashQuery": "Chinese fishing village"
+  }
+}

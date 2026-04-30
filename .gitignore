@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude code session files & local debug screenshots / logs
+.claude/
+.playwright-mcp/
+dev.log
+/*.png
