@@ -8,7 +8,7 @@ import { cities } from "@/data/cities";
 
 const FEATURED_ROUTE_IDS = [
   "classic-first-time",
-  "karst-and-rivers",
+  "epic-yunnan-tibet",
   "must-see-tibet",
 ];
 

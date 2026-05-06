@@ -38,7 +38,7 @@ export default function HomeInteractive() {
 
         <div
           className="mt-3 flex flex-col gap-4 md:flex-row md:items-stretch"
-          style={{ height: "min(72vh, 720px)", minHeight: 560 }}
+          style={{ height: "min(78vh, 780px)", minHeight: 620 }}
         >
           <div className="min-w-0 flex-1">
             <CountryMap
